@@ -5,16 +5,7 @@ import java.nio.file.Files;
 import java.nio.file.StandardCopyOption;
 
 public class CoppyFile {
-//    private static final String pathFileTo = "/Users/turtle/Documents/Module-2/Day16/src/noname.txt";
-//    private static final String pathFileT2 = "/Users/turtle/Documents/Module-2/Day16/src/noname.txt";
-//    public static void main(String[] args) {
-//        try {
-//            InputStream inStream = new FileInputStream(pathFileTo);
-//        } catch (FileNotFoundException e) {
-//            e.printStackTrace();
-//        }
-//        OutputStream outputStream = null;
-//    }
+
     private static final String pathFileTo = "/Users/turtle/Documents/Module-2/Day16/src/noname.txt";
     private static final String pathFileTo2 = "/Users/turtle/Documents/Module-2/Day16/src/nonam2.txt";
 
